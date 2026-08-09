@@ -4,7 +4,7 @@ Premium creative technology platform demonstrating advanced layout, case studies
 
 ## Live Demo
 
-Deployment URL is recorded here only after GitHub Pages verification.
+[Open the live site](https://mim242-40-002-dot.github.io/mim-creative-labs/)
 
 ## Screenshot
 
