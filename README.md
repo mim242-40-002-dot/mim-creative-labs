@@ -38,6 +38,10 @@ Open `index.html` directly or serve the folder with any static web server.
 
 The interface uses semantic landmarks, keyboard-operable controls, visible focus states, responsive images and minimal deferred JavaScript. Measured results are recorded only after testing.
 
+## Verification record
+
+On 11 August 2026 the repository passed static structure, heading, alternative-text, anchor, local-asset, required-file, and JavaScript syntax checks. Five representative viewport checks found no horizontal overflow or broken image. Existing design and evidence were retained.
+
 ## Author
 
 Jannatun Nur Mim
